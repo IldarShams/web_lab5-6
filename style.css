@@ -5,6 +5,7 @@ body
 
 header, main, footer 
 {
+	font-size: 75%;
 	font-family: "Droid Sans";
 	margin: auto;
 	max-width: 855px;
