@@ -12,6 +12,17 @@ header, main, footer
 	min-width: 855px;
 }
 
+a
+{
+	color: red;
+	text-decoration-line: none;
+}
+
+a:hover
+{
+	text-decoration-line: underline;
+}
+
 h1, h2, h3, h4
 {
 	font-family: "Ubuntu";
